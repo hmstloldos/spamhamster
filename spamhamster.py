@@ -16,14 +16,12 @@ time.sleep(2)
 print ("Instagram : @hamster.py")
 time.sleep(2)
 print ("With great power comes great responsibility.")      
-                                                          '
-                                        '
+                                    
 email = raw_input('Your Gmail Address : ')
 time.sleep(2)         '
 user = raw_input('Anonymous name : ')
 time.sleep(2)
 passwd = getpass.getpass('Password: ')
-
 
 to = input('\nVictmim Email: ')
 body = raw_input('Message: ')
